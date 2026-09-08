@@ -8,7 +8,7 @@ Atualmente curso **Ciência da Computação** e busco evoluir em arquitetura de 
 
 ---
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 ### Backend
 
@@ -32,25 +32,25 @@ Atualmente curso **Ciência da Computação** e busco evoluir em arquitetura de 
 
 ---
 
-## 🚀 Projetos em destaque
+## Projetos em destaque
 
-### 🏥 ClinicaAPI
+### ClinicaAPI
 
 API REST para gerenciamento de clínicas, construída com **Java e Spring Boot**.
 
 O projeto envolve conceitos como autenticação e autorização, segurança com JWT, persistência com PostgreSQL, Docker, integrações com APIs externas, cache, auditoria e documentação de API.
 
-➡️ [Ver ClinicaAPI](https://github.com/gabrielhpcosta/ClinicaAPI)
+ [Ver ClinicaAPI](https://github.com/gabrielhpcosta/ClinicaAPI)
 
-### 📅 API de Agendamento
+### API de Agendamento
 
 API REST para gerenciamento de agendamentos desenvolvida com **Java 21, Spring Boot, Spring Data JPA e H2**.
 
-➡️ [Ver APIAgendamento](https://github.com/gabrielhpcosta/APIAgendamento)
+ [Ver APIAgendamento](https://github.com/gabrielhpcosta/APIAgendamento)
 
 ---
 
-## 📚 Atualmente estudando
+##  Atualmente estudando
 
 - Arquitetura de APIs REST
 - Spring Boot e ecossistema Spring
@@ -63,13 +63,13 @@ API REST para gerenciamento de agendamentos desenvolvida com **Java 21, Spring B
 
 ---
 
-## 🎯 Foco profissional
+## Foco profissional
 
 Meu objetivo é me especializar em **desenvolvimento backend**, construindo APIs e integrações seguras, organizadas, manuteníveis e preparadas para evoluir conforme as necessidades do negócio.
 
 ---
 
-### 📊 GitHub
+### GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrielhpcosta&show_icons=true&hide_title=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielhpcosta&layout=compact)
