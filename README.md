@@ -1,6 +1,8 @@
-# Gabriel Pinheiro
+# Gabriel Henrique Costa
 
 ### Backend Developer | Java & Spring Boot
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielhpcosta)
 
 Desenvolvedor focado em **backend e desenvolvimento de APIs REST**, utilizando principalmente o ecossistema Java e Spring.
 
@@ -66,6 +68,13 @@ API REST para gerenciamento de agendamentos desenvolvida com **Java 21, Spring B
 ## Foco profissional
 
 Meu objetivo é me especializar em **desenvolvimento backend**, construindo APIs e integrações seguras, organizadas, manuteníveis e preparadas para evoluir conforme as necessidades do negócio.
+
+---
+
+## Contato
+
+- LinkedIn: [linkedin.com/in/gabrielhpcosta](https://www.linkedin.com/in/gabrielhpcosta)
+- Localização: Campinas, SP
 
 ---
 
